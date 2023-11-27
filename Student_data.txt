@@ -1,0 +1,20 @@
+
+1.Student Name:Sam
+  ID:45
+  Class:10
+  Grade:A
+
+2.Student Name:Sameer
+  ID:46
+  Class:10
+  Grade:B
+
+3.Student Name:Geeta
+  ID:47
+  Class:10
+  Grade:C
+
+4.Student Name:John
+  ID:48
+  Class:10
+  Grade:A  

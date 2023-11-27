@@ -1,0 +1,14 @@
+E:\Mphasis_LVC_Projects\Project2\Project\Project\bin\Debug\Project.exe.config
+E:\Mphasis_LVC_Projects\Project2\Project\Project\bin\Debug\Project.exe
+E:\Mphasis_LVC_Projects\Project2\Project\Project\bin\Debug\Project.pdb
+E:\Mphasis_LVC_Projects\Project2\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+E:\Mphasis_LVC_Projects\Project2\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\Mphasis_LVC_Projects\Project2\Project\Project\obj\Debug\Project.exe
+E:\Mphasis_LVC_Projects\Project2\Project\Project\obj\Debug\Project.pdb
+E:\Mphasis\Project\Project\Project\bin\Debug\Project.exe.config
+E:\Mphasis\Project\Project\Project\bin\Debug\Project.exe
+E:\Mphasis\Project\Project\Project\bin\Debug\Project.pdb
+E:\Mphasis\Project\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+E:\Mphasis\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\Mphasis\Project\Project\Project\obj\Debug\Project.exe
+E:\Mphasis\Project\Project\Project\obj\Debug\Project.pdb
